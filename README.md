@@ -1,7 +1,7 @@
 #Copyright © 2020 Viviane Timmermann, Simula Research Laboratory, Norway
 
-# Timmermann V, McCulloch AD (2020). Mechano-electric coupling and arrhythmogenic
-# current generation in a computational model of coupled myocytes.
+# Timmermann V, McCulloch AD (2020). 
+# Mechano-electric coupling and arrhythmogenic current generation in a computational model of coupled myocytes.
 # Frontiers in Physiology, doi:
 
 ---
